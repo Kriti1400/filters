@@ -1,4 +1,4 @@
-# filters
+# imageFilters
 
 Filters created using C for cs50:
 - The function grayscale takes an image and turns it into a black-and-white version of the same image
